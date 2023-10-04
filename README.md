@@ -13,8 +13,7 @@ Property | Data
 **Tools** | ![Postman Badge](https://img.shields.io/badge/-Postman-3776AB?style=flat&logo=postman) ![DBeaver Badge](https://img.shields.io/badge/-DBeaver-3776AB?style=flat)
 **Domain Knowledge**  | [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Ahayk96&type=Repositories)
 **Databases**  | ![Mysql Badge](https://img.shields.io/badge/-MySQL-3776AB?style=flat&logo=mysql&color=white) ![Postgress Badge](https://img.shields.io/badge/-PostgreSQL-3776AB?style=flat&logo=PostgreSQL&color=white)
-OS**  | ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-3776AB?style=flat&logo=Ubuntu&logoColor=orange&color=white) ![Garuda Badge](https://img.shields.io/badge/-Garuda-3776AB?logo=archlinux)
-
+**OS**  | ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-3776AB?style=flat&logo=Ubuntu&logoColor=orange&color=white) ![Garuda Badge](https://img.shields.io/badge/-Garuda-3776AB?logo=archlinux)
 **DevOps**  | ![Helm Badge](https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=Docker&logoColor=blue&color=white)
 ---
 <!---
