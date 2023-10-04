@@ -2,8 +2,6 @@
 - 👀 I’m interested in Full stack Software Development, AI, ML, DL, Data Science (You can think of any field of Computer Science)
 - 🌱 I’m currently learning Docker
 
-![](./images/preview.png)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=57f408&center=true&vCenter=true&width=1000&duration=3500&background=000000FF&lines=$+echo+"Hi+👋,+I'm+Devarshi+Trivedi";+>>>+print\("A+passionate+Software+Developer+from+India"\);)](https://git.io/typing-svg)
 
 Property | Data
@@ -16,6 +14,12 @@ Property | Data
 **OS**  | ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-3776AB?style=flat&logo=Ubuntu&logoColor=orange&color=white) ![Garuda Badge](https://img.shields.io/badge/-Garuda-3776AB?logo=archlinux)
 **DevOps**  | ![Helm Badge](https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=Docker&logoColor=blue&color=white)
 ---
+
+<h2 align='center'><i><a href="https://github.com/devarshi-007/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devarshi-007&theme=github&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</p>
+
 <!---
 devarshi-007/devarshi-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
