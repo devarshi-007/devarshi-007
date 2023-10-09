@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devarshi-007
-- 👀 I’m interested in Full stack Software Development, AI, ML, DL, Data Science (You can think of any field of Computer Science)
-- 🌱 I’m currently learning Docker
+👋 Hi, I’m @devarshi-007 <br/>
+👀 I’m interested in Full stack Software Development, AI, ML, DL, Data Science (You can think of any field of Computer Science) <br/>
+🌱 I’m currently learning Docker <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=57f408&center=true&vCenter=true&width=1000&duration=3500&background=000000FF&lines=$+echo+"Hi+👋,+I'm+Devarshi+Trivedi";+>>>+print\("A+passionate+Software+Developer+from+India"\);)](https://git.io/typing-svg)
 
